@@ -1,0 +1,28 @@
+{
+  "name": "bootstrap-how-to-make-a-circle-image",
+  "version": "1.0.0",
+  "description": "Add `.rounded-circle` to the image element to give the shape of a circle.",
+  "main": "basic.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdbootstrap/bootstrap-how-to-make-a-circle-image.git"
+  },
+  "keywords": [
+    "bootstrap",
+    "bootstrap5",
+    "bootstrap-theme",
+    "bootstrap-template",
+    "bootstrap-make-a-circle-image",
+    "responsive",
+    "responsive-design"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mdbootstrap/bootstrap-how-to-make-a-circle-image/issues"
+  },
+  "homepage": "https://mdbootstrap.com/how-to/bootstrap/circle-image"
+}
